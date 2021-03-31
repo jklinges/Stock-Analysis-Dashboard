@@ -1,5 +1,6 @@
 # Stock-Analysis-Dashboard
 ﻿# Display Historical Performance of Six Stocks
+ 
 Members - Paul Eppers, Juliann Pezzullo, Craig Matherson, Connor Lanier, Nadia Albarracin, John Klinges
 
 # Description
