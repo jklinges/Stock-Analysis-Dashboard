@@ -1,8 +1,6 @@
 # Stock-Analysis-Dashboard
 ﻿# Display Historical Performance of Six Stocks
  
-Members - Paul Eppers, Juliann Pezzullo, Craig Matherson, Connor Lanier, Nadia Albarracin, John Klinges
-
 # Description
 As seen in a graph on our Project home page, the NASDAQ Average has shown expontential growth in recent years, and has brought new opportunities for stock investors.  However, investing money in today's stock market requires a sophisticated approach to building a stock portfolio. Analysis of indices based on Nasdaq or Dow Jones Industrial Average performance show that the return on diversified investments, such as Exchange Traded Funds (ETFs), could provide higher investment performance than investing solely in a more limited number of stocks. To help investors potentially increase their investment returns, our team has created a series of visualizations for analyzing stock historical performance and potential invesment returns. 
 
@@ -23,7 +21,6 @@ Yahoo Finance is used for the data source, either using and API or the yfinance 
 	yFinance python library
 
 Jupyter Notebook is used to retrieve data, perform calculations, and populate the server with the data, each stock will be a data table. Load Stock Market data into PostgreSQL and load into Heroku. 
-
 
 ## Methods     
 Backend: Python is used to retrieve and make calculations, PostgreSQL is database type used on the Heroku server. Each stock analyzed has its own table. 
